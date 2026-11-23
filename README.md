@@ -1,2 +1,2 @@
 # merhaba Github
-bu depo Github öğrenirken açtığım ilk depo
+Bu depo Github öğrenirken açtığım ilk depo
